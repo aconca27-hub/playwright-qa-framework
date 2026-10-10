@@ -1,0 +1,5 @@
+[
+  { "name": "single item", "items": ["Sauce Labs Backpack"], "customer": { "firstName": "Adolfo", "lastName": "QA", "postalCode": "32205" } },
+  { "name": "two items", "items": ["Sauce Labs Bike Light", "Sauce Labs Bolt T-Shirt"], "customer": { "firstName": "Test", "lastName": "User", "postalCode": "90210" } },
+  { "name": "three items", "items": ["Sauce Labs Onesie", "Sauce Labs Fleece Jacket", "Test.allTheThings() T-Shirt (Red)"], "customer": { "firstName": "Jane", "lastName": "Doe", "postalCode": "10001" } }
+]
