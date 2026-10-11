@@ -1,6 +1,6 @@
 # Playwright QA Framework
 
-[![Playwright Tests](https://github.com/GITHUB_USER/playwright-qa-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/GITHUB_USER/playwright-qa-framework/actions/workflows/playwright.yml)
+[![Playwright Tests](https://github.com/aconca27-hub/playwright-qa-framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/aconca27-hub/playwright-qa-framework/actions/workflows/playwright.yml)
 
 A TypeScript automation framework built with [Playwright](https://playwright.dev), covering UI flows and REST API contracts, with every push verified in GitHub Actions.
 
